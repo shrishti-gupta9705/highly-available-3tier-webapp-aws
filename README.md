@@ -1,6 +1,6 @@
 # Highly Available 3-Tier Web Application on AWS
 
-A hands-on cloud project built while preparing for the **AWS Certified Solutions Architect – Associate (SAA-C03)** exam. The goal is to design, deploy and operate a web application that stays online even if one Availability Zone fails.
+A hands-on cloud project 1. The goal is to design, deploy and operate a web application that stays online even if one Availability Zone fails.
 
 ---
 
