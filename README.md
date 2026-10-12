@@ -11,7 +11,7 @@ Build a secure, highly available, monitored web application on AWS, step by step
 ## Architecture
 
 ```
-Users
+Internat Users (Website Visitors)
   |
   v
 Application Load Balancer        <- Tier 1: presentation (public subnets)
